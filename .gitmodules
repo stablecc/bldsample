@@ -1,0 +1,6 @@
+[submodule "make"]
+	path = make
+	url = https://github.com/stablecc/make
+[submodule "import"]
+	path = import
+	url = https://github.com/stablecc/import
